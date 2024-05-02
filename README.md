@@ -4,6 +4,7 @@
 ### Задание 2.
 ##### Добавлено с помощью консоли.
 Выполнил:
-* Жигули Г.С.
+* Жигулин Г.С.
 * УВПв-321
-Nel Nome del Codice, del Disco e del santo Systema, Amen
+* Nel Nome del Codice, del Disco e del santo Systema, Amen
+* Indicator that all works
